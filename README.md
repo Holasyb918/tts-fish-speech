@@ -21,5 +21,5 @@ bash run.sh asserts/audio.wav asserts/text.txt
 ```
 
 ## star us
-If you find this project useful, please star us.
+If you find this project useful, please star us.  
 如果这个项目对您有帮助，请给我们一颗 star。
