@@ -16,6 +16,7 @@ huggingface-cli download fishaudio/fish-speech-1.5 --local-dir checkpoints/fish-
 ```
 
 ## 运行示例
+把你需要生成的文本放在 [asserts/text.txt](asserts/text.txt) 中，把要克隆的音色放在 [asserts/audio.wav](asserts/audio.wav) 中，然后运行以下命令：
 ```bash
 bash run.sh asserts/audio.wav asserts/text.txt
 #             音色 wav           TTS 文本 
